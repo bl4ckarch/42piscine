@@ -10,4 +10,4 @@ Check vimcake for a simple and efficient vim config to get started!
 This code is unlicensed, copying it is however not the best way to progress, and don't forget whatever you do
 whatever you think of doing THE BOCAL is aware so be warned
 
-i welcome forks for checking and optomising some exercises
+i welcome forks for checking and optimising some exercises
